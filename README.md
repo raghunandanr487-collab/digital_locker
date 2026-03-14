@@ -27,4 +27,15 @@ The design consists of four states:
 4. OPEN  
    If the password is correct, the lock opens.
 
-## Stored Password
+### Stored Password=0011
+
+## there are some waveforms snippet and rtl digram 
+
+
+
+
+
+
+
+
+
