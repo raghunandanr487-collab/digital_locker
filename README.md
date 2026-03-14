@@ -31,7 +31,7 @@ The design consists of four states:
 
 ## there are some waveforms snippet and rtl digram 
 
-
+<img width="1630" height="1038" alt="Image" src="https://github.com/user-attachments/assets/a4cf7b1f-bb3e-456a-9be8-4c14e209377e" />
 
 
 
